@@ -1,0 +1,15 @@
+{
+  "name": "subtitle-transformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["lyrics", "lyrics-converter"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "subtitles-parser-vtt": "^0.1.0"
+  }
+}
